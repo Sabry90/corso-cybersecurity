@@ -12,6 +12,7 @@ for (int i=0; i<10; i++) {
 printf ("elemento %d del vettore:%d\n", i, *ptr );
 ptr++;
 
+
 }
 
 }
