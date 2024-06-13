@@ -3,3 +3,4 @@
 gcc $1 -o w6d1_pratica1.bin && ./w6d1_pratica1.bin
 
 gcc $1 -o w6d1_facoltativo.bin && ./w6d1_facoltativo.bin 
+gcc $1 -o w6d1_pratica2.bin && ./w6d1_pratica2.bin
