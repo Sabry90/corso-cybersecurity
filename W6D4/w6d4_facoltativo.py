@@ -6,7 +6,7 @@ while True:
     if (scelta == 1):
         lato = int(input("\n Scegli la misura del lato: "))
         perimetro = lato * 4
-        area = lato** 2
+        area = lato**2
         print(f"\n Il perimetro del quadrato e: {perimetro}")
         print(f"\n L' area del quadrato e: {area}")
     elif (scelta == 2):
